@@ -1,0 +1,3 @@
+python3 run_page/gen_svg.py --from-db --title "运动打卡" --type github --athlete "khotyn" --special-distance 10 --special-distance2 20 --special-color yellow --special-color2 red --output assets/github.svg --use-localtime --min-distance 0.5
+python3(python) run_page/gen_svg.py --from-db --title "超过 10KM 的路线" --type grid --athlete "khotyn"  --output assets/grid.svg --min-distance 10.0 --special-color yellow --special-color2 red --special-distance 20 --special-distance2 40 --use-localtime
+python3 run_page/gen_svg.py --from-db --type circular --use-localtime

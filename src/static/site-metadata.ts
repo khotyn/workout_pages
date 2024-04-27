@@ -11,8 +11,8 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Workouts Map',
-  siteUrl: 'https://ben29.xyz',
+  siteTitle: 'Khotyn\'s Workouts',
+  siteUrl: 'https://khotyn.com',
   logo: 'https://avatars.githubusercontent.com/u/584455?v=4',
   description: 'Personal site and blog',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',

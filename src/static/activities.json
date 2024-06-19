@@ -4123,5 +4123,35 @@
 "average_speed": 2.8219813277161037,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1718514137000,
+"name": "Munich \u8dd1\u6b65",
+"distance": 10127.319986817074,
+"moving_time": "1:13:55",
+"type": "Run",
+"start_date": "2024-06-16 05:02:17",
+"start_date_local": "2024-06-16 07:02:17",
+"location_country": "Landsberger Stra\u00dfe, Neu-Friedenheim, Friedenheim, Laim, \u6155\u5c3c\u9ed1, \u5df4\u4f10\u5229\u4e9a, 80687, \u5fb7\u56fd",
+"summary_polyline": "mrydHmajeAJl@jA}@l@VuA~@hAsBAiBZkCh@YLaDu@qAI_Df@oE@cEaAy@_@}AT]m@{@VUKiApBsBMw@d@OJqAf@AFcAQ{Cb@m@_@Y@kUz@gOPuU`@wES}B`@k@h@sMhOG~@bB~@c@|@bF`BrBbEhBbGJhBbAdB`CvABbAfBWdAbAzGg@lA{@PY|BLtCb@^hDuDVkCKeGpBgArCo@dBNbBu@hEwLByCaAeG{DgIiCyCgDmB}HaB_M\\iD`BkBvB{BpEq@vF@xD|@~BxCtB|JfAzDdDpBX|CqAd@uYKyLaMWuGpAcCdBaDhFoAbKy@Qi@r@cBgAqIUwBvDeA|Kf@|FcA|J\\j@DbEcBzN`@~Cm@lKVpASpEp@|BWlBu@z@HjK_B|c@OjBsAk@LsJ",
+"average_heartrate": 151.0,
+"average_speed": 2.283499433329667,
+"source": "Garmin Connect",
+"streak": 1
+},
+{
+"run_id": 1718603234000,
+"name": "Wackersdorf \u8dd1\u6b65",
+"distance": 570.3145467767037,
+"moving_time": "0:00:11",
+"type": "Run",
+"start_date": "2024-06-17 05:47:14",
+"start_date_local": "2024-06-17 07:47:14",
+"location_country": "Bodenw\u00f6hr, Wackersdorf (VGem), Landkreis Schwandorf, \u5df4\u4f10\u5229\u4e9a, 92439, \u5fb7\u56fd",
+"summary_polyline": null,
+"average_heartrate": 120.0,
+"average_speed": 51.84677697970033,
+"source": "Garmin Connect",
+"streak": 2
 }
 ]
